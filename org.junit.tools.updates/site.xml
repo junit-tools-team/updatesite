@@ -9,6 +9,9 @@
    <feature url="features/org.junit.tools.feature_1.0.2.201603032254.jar" id="org.junit.tools.feature" version="1.0.2.201603032254">
       <category name="JUnit-Tools"/>
    </feature>
+   <feature url="features/org.junit.tools.feature_1.0.3.201605011622.jar" id="org.junit.tools.feature" version="1.0.3.201605011622">
+      <category name="JUnit-Tools"/>
+   </feature>
    <category-def name="JUnit-Tools" label="JUnit-Tools">
       <description>
          Tools around the creation and management of junit-tests.
