@@ -2,7 +2,7 @@
 <feature
       id="org.junit.tools.feature"
       label="org.junit.tools"
-      version="1.0.3.qualifier">
+      version="1.0.4.qualifier">
 
    <description url="http://junit-tools.org/">
       Tools around the creation and management of junit-tests.
